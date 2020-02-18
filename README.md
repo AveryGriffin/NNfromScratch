@@ -1,1 +1,1 @@
-This code goes along with my tutorial for creating a NN from scratch. The tutorial can be found on my website https://engineeringsapien.com/.
+This code goes along with my tutorial for creating a NN from scratch. The tutorial should be finished come March 1, 2020. Once it is, you can find it on my website https://engineeringsapien.com/.
