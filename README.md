@@ -1,1 +1,1 @@
-This code goes along with my tutorial for creating a NN from scratch. The tutorial should be finished come March 1, 2020. Once it is, you can find it on my website https://engineeringsapien.com/.
+This code goes along with my tutorial for creating a Neural Network from scratch. The neural network is used to classify Darth Vader vs Yoda images. You can find the tutorial on my website https://engineeringsapien.com/tutorials/nntutorial/.
